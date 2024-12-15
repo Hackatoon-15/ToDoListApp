@@ -1,5 +1,3 @@
-git# ToDoListApp
-
 import itertools
 import json
 
